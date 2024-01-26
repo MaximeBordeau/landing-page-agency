@@ -116,7 +116,7 @@ export default {
         <div class="container">
           <div class="row">
             <div class="col-lg-8 offset-lg-2 text-white text-center">
-              <h1 class="home-title">Un accompagnement dans la création de site de A à Z </h1>
+              <h1 class="home-title">Votre succès en ligne, notre expertise digitale </h1>
               <p class="padding-t-15 home-desc mx-auto">
                 Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci consectetur obcaecati quaerat nemo vitae repellendus eaque voluptatem autem maiores quas.
               </p>
